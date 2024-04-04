@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form>h1 {
+    color: rgb(163, 199, 163);
+}
+
+
+.Contact {
+    background-color: #fff;
+    width: 30%;
+    height: 100%;
+    margin-left: 35%;
+}
+
+.Contact_Head {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 50% 0;
+    padding: 20px 20px;
+}
+
+.text_filed {
+    padding: 20px 20px;
+}
+
+.text_filed>h3 {
+    padding: 10px;
+}
+
+.Contact_icons {
+    padding-top: 10px;
+
+}
+
+.linkdin {
+    margin: 0 15px;
+    color: #0a66c2;
+}
+
+.github {
+    color: black;
+}
+
+.instagram {
+    color: red;
+}

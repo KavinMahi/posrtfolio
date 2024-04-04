@@ -1,0 +1,69 @@
+.TopContent {
+    color: #ffffff;
+    position: relative;
+
+}
+
+.TopContent__Container {
+    position: absolute;
+    top: 200px;
+    left: 400px;
+}
+
+
+
+.TopContent__Container>p {
+    letter-spacing: 1px;
+    text-align: left;
+    padding-left: 3px;
+    padding-top: 20px;
+}
+
+.TopContent__Container>a>button {
+    margin-top: 30px;
+    text-align: left;
+    margin-left: 5px;
+    border: none;
+    outline: none;
+    border-radius: 2px;
+}
+
+.TopContent__Container>h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.TopContent__ResumeButton {
+    color: #0c3b2e;
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    font-size: 14px;
+    font-weight: 300;
+    padding: 10px 30px;
+    cursor: pointer;
+    margin-right: 20px;
+    letter-spacing: 1px;
+}
+
+.TopContent__ResumeButton:hover {
+    color: #ffffff;
+    background-color: #0c3b2e;
+    border: 1px solid #ffffff;
+}
+
+.TopContent__WebsitButton {
+    color: #0c3b2e;
+    background-color: #ffffff;
+    font-size: 14px;
+    font-weight: 300;
+    padding: 10px 30px;
+    cursor: pointer;
+    margin-right: 20px;
+    letter-spacing: 1px;
+}
+
+.TopContent__WebsitButton:hover {
+    color: #ffffff;
+    background-color: #013230;
+    border: 1px solid #ffffff;
+}

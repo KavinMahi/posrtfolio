@@ -1,0 +1,9 @@
+.homeContent {
+    /* background-color: #b5bfa1; */
+    /* #013230 */
+    background-color: rgb(163, 199, 163);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100;
+}

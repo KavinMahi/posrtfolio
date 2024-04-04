@@ -1,0 +1,143 @@
+h2 {
+    font-size: 100px;
+    text-align: center;
+    flex: auto;
+}
+
+h1 {
+    color: #ffffff;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+}
+
+
+.SkillContainer {
+    text-align: center;
+    background-color: rgb(163, 199, 163);
+    width: 100;
+    height: 100vh;
+    padding-top: 150px;
+
+}
+
+.SkillIcon {
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+
+.SkillIconTwo {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+
+
+.html {
+    color: #e34c26;
+    height: 25%;
+    width: 13%;
+    background-color: #ffffff;
+    padding: 0px 0px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10%;
+}
+
+.html>p {
+    padding-top: 0;
+    font-weight: bold;
+    color: black;
+}
+
+.css {
+    color: #2965f1;
+    height: 25%;
+    width: 13%;
+    background-color: #ffffff;
+    padding: 0px 0px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10%;
+}
+
+.css>p {
+    padding-top: 0;
+    font-weight: bold;
+    color: black;
+}
+
+.js {
+    color: #f0db4f;
+    height: 25%;
+    width: 13%;
+    background-color: #ffffff;
+    padding: 0px 0px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10%;
+}
+
+.js>p {
+    padding-top: 0;
+    font-weight: bold;
+    color: black;
+}
+
+.bs {
+    color: #506efa;
+    height: 25%;
+    width: 13%;
+    background-color: #ffffff;
+    padding: 0px 0px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10%;
+}
+
+.bs>p {
+    padding-top: 0;
+    font-weight: bold;
+    color: black;
+}
+
+.nj {
+    color: green;
+    height: 25%;
+    width: 13%;
+    background-color: #ffffff;
+    padding: 0px 0px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10%;
+}
+
+.nj>p {
+    padding-top: 0;
+    font-weight: bold;
+    color: black;
+}
+
+.rj {
+    color: #61dbfb;
+    height: 25%;
+    width: 13%;
+    background-color: #ffffff;
+    padding: 0px 0px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10%;
+}
+
+.rj>p {
+    padding-top: 0;
+    font-weight: bold;
+    color: black;
+}
